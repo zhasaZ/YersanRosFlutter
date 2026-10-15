@@ -4,7 +4,7 @@
 и темой «кофейня»: коричневая цветовая схема, Montserrat, светлая/тёмная/авто тема.
 
 ## Запуск
-1. Откройте папку pro_flutter_v3 в Android Studio / VS Code.
+1. Откройте папку YersanRosFlutter в Android Studio / VS Code.
 2. `flutter create .`   (создаст android/ios/web/windows, файлы lib и assets не тронет)
 3. `flutter pub get`
 4. `flutter run`
